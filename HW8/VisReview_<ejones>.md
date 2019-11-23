@@ -13,3 +13,11 @@ My final suggestion might be a legend across the bottom to outline each of the f
 ![](https://github.com/umerudel/DSPS_uZubair/blob/master/HW8/plot.png?raw=true)
 
 Correlogram of motor trend cars.
+
+
+# FBB 
+the content of the review is good. 
+
+I think you should reread your sentences a few times tho. The Aesthetic sentence is really impossible to parse...
+
+Nonetheless 100%
